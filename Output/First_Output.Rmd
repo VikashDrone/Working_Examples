@@ -3,9 +3,9 @@ title: "First_RMarkdown_File"
 author: "Me"
 date: "March 9, 2019"
 output:
-  word_document: default
   html_document:
     df_print: paged
+  word_document: default
 ---
 
 ```{r setup, include=FALSE}
